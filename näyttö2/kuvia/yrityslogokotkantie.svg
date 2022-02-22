@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="393" height="390" viewBox="0 0 393 390">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="393" height="390"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="393" height="390" fill="#fff"/>
+    <g id="Group_1" data-name="Group 1">
+      <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(13 12)" stroke="#707070" stroke-width="1">
+        <rect width="367" height="364" stroke="none"/>
+        <rect x="0.5" y="0.5" width="366" height="363" fill="none"/>
+      </g>
+      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(56 27)" fill="#8a2be2" stroke="#707070" stroke-width="1">
+        <ellipse cx="144.5" cy="139" rx="144.5" ry="139" stroke="none"/>
+        <ellipse cx="144.5" cy="139" rx="144" ry="138.5" fill="none"/>
+      </g>
+      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(144 135)" fill="#1ed287" stroke="#707070" stroke-width="1">
+        <rect width="115" height="116" stroke="none"/>
+        <rect x="0.5" y="0.5" width="114" height="115" fill="none"/>
+      </g>
+      <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(264 75)" fill="red" stroke="#707070" stroke-width="1">
+        <ellipse cx="21.5" cy="26.5" rx="21.5" ry="26.5" stroke="none"/>
+        <ellipse cx="21.5" cy="26.5" rx="21" ry="26" fill="none"/>
+      </g>
+      <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(90 75)" fill="red" stroke="#707070" stroke-width="1">
+        <ellipse cx="22.5" cy="26.5" rx="22.5" ry="26.5" stroke="none"/>
+        <ellipse cx="22.5" cy="26.5" rx="22" ry="26" fill="none"/>
+      </g>
+      <text id="Maalaus-" transform="translate(41 328)" fill="#3808b9" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">Maalaus-</tspan></text>
+      <text id="ja_tapetointi" data-name="ja tapetointi" transform="translate(229 328)" fill="red" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">ja tapetointi</tspan></text>
+      <text id="Kotkantie_" data-name="Kotkantie " transform="translate(25 18)" fill="#1ed287" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">Kotkantie </tspan></text>
+      <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(161 149)" fill="#3808b9" stroke="#707070" stroke-width="1">
+        <rect width="79" height="32" stroke="none"/>
+        <rect x="0.5" y="0.5" width="78" height="31" fill="none"/>
+      </g>
+      <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(185 181)" fill="#3808b9" stroke="#707070" stroke-width="1">
+        <rect width="31" height="56" stroke="none"/>
+        <rect x="0.5" y="0.5" width="30" height="55" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,237 @@
+/*CSS*/
+
+/* Kaikkien sivujen ominaisuudet */
+#nav01
+{
+color:blue !important;
+}
+#menu
+{
+    
+    align-self: center !important;
+    color:black !important;
+    background-color:rgb(30, 210, 135) !important;
+}
+body 
+{ 
+    margin: 1px;
+    align-content: center;
+    margin-left: 15px;
+}
+
+#foot01
+{
+    display: block !important;
+    font-style: italic !important;
+    margin-left:15px !important;
+
+
+}
+
+/* Etusivu sivun ominaisuudet ---------------------------------------------------*/
+#etusivu
+{
+    background-color:black;
+}
+.etusivufoot
+{
+    color:white;
+}
+#kontkantie
+{
+    color:rgb(56, 8, 185);
+}
+#tapetointiin
+{
+    color:red;
+}
+#alkuotsikko
+{
+    color:rgb(32, 216, 16);
+    background-color: black;
+    text-align:center;
+}
+#esittely
+{
+    background-color: black;
+    color:whitesmoke;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Shizuru', cursive;
+    font-size: 23px;
+    font-weight: 65;
+}
+#esotsikko
+{
+    color:whitesmoke;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Shizuru', cursive;
+    font-size: 30px;
+    font-weight: 80;
+}
+/*kuvien ominaisuuksia*/
+#hymykaupunki
+{
+width:500px;
+height:400px;
+
+}
+
+
+/* Palvelut sivun ominaisuudet ---------------------------------------------------*/
+.carousel-inner img 
+{
+    width: 85%;
+    height: 85%;
+    margin:10px;
+}
+.pcakuvaotsikot
+{
+align-content:center;
+color:rgb(0, 8, 8);
+padding-bottom:5px;
+font-size: 55px;
+padding-top: 50%;
+}
+
+.pcakuvatekstit
+{
+    align-content:center;
+    color:rgb(0, 0, 0);
+    padding-bottom:7%;
+    font-size:38px;   
+
+}
+#palvelukuvat
+{
+    width:95%;
+    height:auto;
+}
+.carousel-control-next-icon
+{
+    background-color: grey;
+}
+.carousel-control-prev-icon
+{
+    background-color:grey;
+}
+/* Värientestaus sivun ominaisuudet -------------------------------------------------*/
+.testicol
+{
+    border:solid 2px red;
+}
+
+/*.varivaihtokuva
+{
+    padding-left:15px;
+    padding-right:15px;
+    width:85%;
+    height:85%;
+    border:solid 2px green;
+
+}
+#variotsikko2
+{
+ color:blueviolet;
+}
+.varinvaihtotyokalut
+{
+    padding-left:15px;
+    padding-top:10px;
+    
+}
+
+/*värinvaihto palettien säädöt */
+
+/*vasen puolen väripalettien säädöt */
+/*#vasenpaletti
+{
+    border-style: solid;
+    margin:2px;
+    
+}
+.vpaletti2
+{
+   
+   
+}
+*/
+/* oikean puolen väripalettien säädöt */
+/*#oikeapaletti
+{
+    border-style: double;
+    margin:2px;
+    
+}
+.opaletti2
+{
+    
+    
+}
+
+*/
+/* Galleria sivun ominaisuudet --------------------------------------------------------*/
+#gotsikko
+{
+    color:rgb(0, 0, 0);
+    
+}
+
+#bodygalleria
+{
+    background-image: url(https://media.istockphoto.com/photos/fi/nykyaikainen-keitti%C3%B6tausta-tyhj%C3%A4ll%C3%A4-tilalla-tekstille-id1178062665?k=20&m=1178062665&s=612x612&w=0&h=V99_schvDC3w1FmUXQGZ6PiYoRJ_uRBYf5LtBtuD7-w=);
+    width:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:85%;
+    height:auto;
+}
+
+/* Yhteystiedot sivun ominaisuudet --------------------------------------------------------*/
+
+.yritysosoite
+{
+    text-align:center;
+    color: rgb(47, 68, 255);
+    display:none;
+}
+#yhteydenottolomake
+{
+    border: 2px solid black;
+    border-color: black;
+    padding-left:8px;
+    padding-bottom:10px;
+
+}
+#yhteystiedotsijainti
+{
+    padding-top:10px;
+    padding-left:10px;
+    align-self: center;
+}
+
+#yhteystiedotyoutube
+{
+    padding-top:10px;
+    padding-left:10px;
+
+}
+#yhteystiedotinstagram
+{
+    padding-top:10px;
+    padding-left:10px;
+}
+
+#raportti
+{
+    background-color: whitesmoke;
+
+}
